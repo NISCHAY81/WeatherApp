@@ -13,21 +13,6 @@ A simple and user-friendly Weather Application that displays real-time weather i
 
 ---
 
-## Demo 🚀
-
-[Live Demo](#) (Replace `#` with the link to your live app or GitHub Pages deployment)
-
----
-
-## Screenshots 📸
-
-### Desktop View
-![Desktop View](#)
-
-### Mobile View
-![Mobile View](#)
-
----
 
 ## Technologies Used 💻
 
